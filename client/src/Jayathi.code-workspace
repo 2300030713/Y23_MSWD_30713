@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../.."
+		},
+		{
+			"path": "../../../../../Desktop/frontend"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../work"
+		},
+		{
+			"path": "../../../course cards"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Jayathi"
+	}
+}
